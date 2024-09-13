@@ -1,0 +1,13 @@
+﻿Build started at 3:26 PM...
+1>------ Build started: Project: Task, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>C:\Users\nick0\source\repos\Task\Task\Program.cs(20,5,20,11): warning CS0219: The variable 'isokay' is assigned but its value is never used
+1>C:\Users\nick0\source\repos\Task\Task\Program.cs(23,5,23,6): warning CS0219: The variable 'n' is assigned but its value is never used
+1>C:\Users\nick0\source\repos\Task\Task\Program.cs(24,5,24,6): warning CS0219: The variable 'c' is assigned but its value is never used
+1>C:\Users\nick0\source\repos\Task\Task\Program.cs(25,5,25,6): warning CS0219: The variable 't' is assigned but its value is never used
+1>C:\Users\nick0\source\repos\Task\Task\Program.cs(26,5,26,6): warning CS0219: The variable 'a' is assigned but its value is never used
+1>C:\Users\nick0\source\repos\Task\Task\Program.cs(28,6,28,7): warning CS0219: The variable 's' is assigned but its value is never used
+1>Task -> C:\Users\nick0\source\repos\Task\Task\bin\Debug\net8.0\Task.dll
+1>Done building project "Task.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 3:26 PM and took 00.540 seconds ==========
